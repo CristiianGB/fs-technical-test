@@ -180,15 +180,15 @@ query {
 
 ### 🗄️ Pantalla principal
 
-![Vista principal](./frontend/public/screenshots/main.png)
+![Vista principal](./frontend/public/main.png)
 
 ### 🎛️ Gráfico con filtros
 
-![Gráfico con filtros](./frontend/public/screenshots/filters.png)
+![Gráfico con filtros](./frontend/public/filters.png)
 
 ### ⚠️ Mensaje de error
 
-![Mensaje de error](./frontend/public/screenshots/error.png)
+![Mensaje de error](./frontend/public/error.png)
 
 
 ---
